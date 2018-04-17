@@ -1,0 +1,1 @@
+This folder contains files that are synced with GitHub
